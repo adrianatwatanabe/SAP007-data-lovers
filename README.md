@@ -18,8 +18,6 @@
   
 ## ÍNDICE
 
-- [Escolha os seus Pokemóns para combate, filtrando por tipo e fraqueza.](#escolha-os-seus-pokemóns-para-combate-filtrando-por-tipo-e-fraqueza)
-- [ÍNDICE](#índice)
 - [1. PRODUTO](#1-produto)
   - [1.1. Pokémon](#11-pokémon)
   - [1.2. Histórias de Usuários](#12-histórias-de-usuários)
